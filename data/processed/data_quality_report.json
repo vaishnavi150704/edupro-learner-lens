@@ -1,0 +1,18 @@
+{
+  "users_raw_rows": 3000,
+  "users_duplicate_ids": 0,
+  "users_invalid_age_rows": 0,
+  "users_missing_gender": 0,
+  "courses_raw_rows": 64,
+  "courses_duplicate_ids": 0,
+  "transactions_raw_rows": 7516,
+  "transactions_duplicate_ids": 0,
+  "transactions_bad_dates": 0,
+  "transactions_with_unknown_user": 0,
+  "transactions_with_unknown_course": 0,
+  "repeat_user_course_pairs": 0,
+  "merged_rows": 7516,
+  "merged_unique_learners": 2762,
+  "merged_unique_courses": 64,
+  "learners_without_enrollment": 238
+}
